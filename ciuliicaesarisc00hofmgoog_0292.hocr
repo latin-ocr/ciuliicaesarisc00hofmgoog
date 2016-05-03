@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ciuliicaesarisc00hofmgoog/ciuliicaesarisc00hofmgoog_0292.png"; bbox 0 0 2812 4586; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 170 2048 1115 2116">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 170 2048 1115 2116">
+     <span class='ocr_line' id='line_1_1' title="bbox 170 2048 1115 2116; baseline -0.001 -14"><span class='ocrx_word' id='word_1_1' title='bbox 170 2051 267 2116; x_wconf 79' lang='lat' dir='ltr'>Verlag</span> <span class='ocrx_word' id='word_1_2' title='bbox 285 2052 329 2102; x_wconf 81' lang='lat' dir='ltr'><strong>der</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 347 2048 575 2102; x_wconf 78' lang='lat' dir='ltr'>Weidmannsohen</span> <span class='ocrx_word' id='word_1_4' title='bbox 592 2051 788 2116; x_wconf 76' lang='lat' dir='ltr'><strong>Buehhandlnng</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 806 2050 835 2112; x_wconf 87' lang='lat' dir='ltr'><strong>(J.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 853 2051 961 2113; x_wconf 76' lang='lat' dir='ltr'>Reimer)</span> <span class='ocrx_word' id='word_1_7' title='bbox 979 2050 1005 2100; x_wconf 86' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1023 2050 1115 2101; x_wconf 75' lang='lat' dir='ltr'><strong>Berlin.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 221 2233 1066 2288">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 221 2233 1066 2288">
+     <span class='ocr_line' id='line_1_2' title="bbox 221 2233 1066 2288; baseline 0.001 -14"><span class='ocrx_word' id='word_1_9' title='bbox 221 2234 354 2278; x_wconf 75' lang='lat' dir='ltr'><strong>Pioter&#39;sohe</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 370 2235 581 2278; x_wconf 72' lang='lat' dir='ltr'>Hofbuchdruckerei</span> <span class='ocrx_word' id='word_1_11' title='bbox 597 2234 705 2288; x_wconf 69' lang='lat' dir='ltr'><strong>(stephan</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 717 2234 795 2276; x_wconf 68' lang='lat' dir='ltr'>asibel</span> <span class='ocrx_word' id='word_1_13' title='bbox 809 2233 884 2286; x_wconf 56' lang='lat'><strong>³00.)</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 898 2235 920 2276; x_wconf 89' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 937 2234 1066 2287; x_wconf 56' lang='lat' dir='ltr'><strong>manburg.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1410 4586">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1410 4586">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1410 4586; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1410 4586; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
